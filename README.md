@@ -10,11 +10,11 @@
 
 <div>
 <a href="https://github.com/mthsleal13">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?mthsleal13&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?mthsleal13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>    
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsleal13&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mthsleal13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
 
-- 📫 Como entrar em contato comigo:
+## Contatos:
 
 <div>
 <a href="https://www.instagram.com/leal.mths/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
